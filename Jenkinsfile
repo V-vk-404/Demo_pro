@@ -11,7 +11,7 @@ pipeline {
 
     stage('Checkout Source') {
       steps {
-        git 'https://github.com/V-vk-404/assignment.git'
+        git 'https://github.com/V-vk-404/Demo_pro.git'
       }
     }
 
